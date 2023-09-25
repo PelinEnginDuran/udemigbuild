@@ -1,9 +1,9 @@
 Bu proje HTML, CSS ve BOOTSTRAP LIBRARY kullanılarak tasarlanmıştır.
 
-"Home
-About
-Services
-Portfolio
+"Home - 
+About - 
+Services - 
+Portfolio - 
 Contact"
 Bölümlerinden oluşur.
 
